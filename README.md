@@ -1,1 +1,1 @@
-# Event-Counter-Using-Red-Black-Tree
+An Event Counter using Red-Black Tree.
